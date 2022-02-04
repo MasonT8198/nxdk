@@ -33,7 +33,7 @@ body:
       required: true
   - type: textarea
     attributes:
-      label: System Information
-      description: Basic information of how you have identified this issue/test cases to help prove (and potentially fix the issue occurring, if applicable)
+      label: Additional Information
+      description: Additional information of how you have identified this issue/test cases to help prove (and potentially fix the issue occurring, if applicable)
       placeholder: |
         *insert testcase/other valid information here
